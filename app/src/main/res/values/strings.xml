@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Remotedesktop_client</string>
+    <string name="conn">Connect</string>
+    <string name="ip_add">IP adress:</string>
+    <string name="port">Port:</string>
+    <string name="connected">waiting con</string>
+</resources>
